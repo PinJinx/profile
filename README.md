@@ -18,6 +18,6 @@ The website implements media queries to adjust the layout for different screen s
 ## Setup Instructions
 1. Clone this repository
 2. Make sure all image files are in the correct directories:
-   - Main images in `/images/`
+   - Main images in `/profile/images/`
    - SVG icons and other assets as referenced in the HTML
 3. Open `landing_page.html` in your browser
